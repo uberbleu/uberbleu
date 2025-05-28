@@ -1,4 +1,5 @@
-Hi 👋 My name is Tony Huszar 
+# Hi 👋 My name is Tony Huszar 
+
 Data Science | Data Analysis 
 
 Data Scientist with 4+ years of experience applying AI/ML to real-world problems using Python, Scikit-learn, XGBoost, Pandas, and time series models. Ranked top 5.83% globally in Kaggle’s House Price Prediction competition. Improved NYC Airbnb demand forecasting by 15% using Prophet, Silverkite, SARIMAX, and RNN-LSTM. Achieved 84% accuracy predicting heart disease across international clinics. Skilled in feature engineering, model tuning, and delivering insights that drive business decisions. 
